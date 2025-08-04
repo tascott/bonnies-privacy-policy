@@ -1,161 +1,109 @@
-# Mobile App Guide for Clients
+# Privacy Policy
+Effective Date: 3rd August 2025
 
-Welcome to your Bonnie's mobile app! This guide will help you get the most out of all the features available to you.
+## 1. Introduction
+This Privacy Policy describes how we collect, use, disclose, and safeguard your information when you use our pet services booking platform and mobile application. We are committed to protecting your privacy and ensuring the security of your personal information.
 
-## Getting Started
+## 2. Information We Collect
 
-Once you've downloaded and logged into the app, you'll see the main dashboard with easy access to all your account features.
+### 2.1 Personal Information
+We may collect the following types of personal information:
+- **Account Information:** Name, email address, phone number, password
+- **Profile Information:** Profile picture, business type, service preferences
+- **Pet Information:** Pet names, breeds, ages, medical information, photos, special instructions
+- **Booking Information:** Service bookings, appointment history, payment information
+- **Communication Data:** Messages between clients and staff, support communications
+- **Location Data:** Address information for service delivery (when applicable)
 
-## Pet Management
+### 2.2 Automatically Collected Information
+- **Device Information:** Device type, operating system, unique device identifiers
+- **Usage Data:** App usage patterns, features accessed, time spent on platform
+- **Log Data:** IP address, browser type, access times, pages viewed
+- **Location Data:** General location information (with your consent)
 
-### Adding Your Pets
-1. Navigate to **My Pets** from the main dashboard
-2. Tap **Add New Pet** to register a new pet
-3. Fill in your pet's details:
-   - Name, breed, and size
-   - Special care instructions
-   - Upload photos
-4. Once submitted, staff will review and approve your pet profile
+### 2.3 Cookies and Tracking Technologies
+We use cookies, web beacons, and similar tracking technologies to enhance your experience, analyze usage patterns, and provide personalized content.
 
-### Pet Approval Process
-- All new pets require staff approval before booking services
-- You'll see a "Confirmed" badge on approved pets
-- Only approved pets can be selected for bookings
+## 3. How We Use Your Information
+We use your information for the following purposes:
+- **Service Provision:** To provide, maintain, and improve our pet services platform
+- **Account Management:** To create and manage your account, authenticate users
+- **Booking Management:** To process bookings, send confirmations, and manage appointments
+- **Communication:** To send service updates, appointment reminders, and respond to inquiries
+- **Payment Processing:** To process payments and manage billing (through secure third-party processors)
+- **Customer Support:** To provide technical support and customer service
+- **Safety and Security:** To ensure platform security and prevent fraud
+- **Legal Compliance:** To comply with applicable laws and regulations
+- **Business Operations:** For analytics, research, and platform improvement
 
-### Editing Pet Profiles
-- Tap on any pet from your pets list to view their profile
-- Edit details, update photos, or add special instructions
-- Changes may require re-approval from staff
+## 4. Information Sharing and Disclosure
 
-## Booking Services
+### 4.1 Service Providers
+We may share your information with trusted third-party service providers who assist us in:
+- Payment processing (Stripe, PayPal)
+- Cloud hosting and data storage (Supabase, AWS)
+- Email and communication services
+- Analytics and performance monitoring
+- Customer support tools
 
-### How Booking Works
-The app uses a smart booking system with two types of availability:
+### 4.2 Staff and Service Providers
+We share relevant information with our staff members and authorized service providers to deliver the requested pet services. This includes pet information, booking details, and special instructions.
 
-**Available Slots** (Green clock icon)
-- Request a booking that requires staff approval
-- You'll receive a notification once approved or declined
+### 4.3 Legal Requirements
+We may disclose your information when required by law, court order, or government request, or to protect our rights, property, or safety.
 
-**Pre-approved Slots** (Blue checkmark icon)  
-- Book instantly without waiting for approval
-- Created by staff for regular clients and recurring services
+### 4.4 Business Transfers
+In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity.
 
-### Making a Booking
-1. Choose **Book Service** from the dashboard
-2. Select your desired service
-3. Pick date(s) from the calendar - you can select multiple days
-4. Choose which pets to include
-5. Review pricing (multi-pet discounts automatically applied)
-6. Confirm your booking
+## 5. Data Security
+We implement appropriate technical and organizational security measures to protect your personal information, including:
+- Encryption of sensitive data in transit and at rest
+- Secure authentication systems
+- Regular security assessments and updates
+- Access controls and employee training
+- Secure cloud infrastructure with industry-standard protections
 
-### Understanding Pre-approvals
-Staff can pre-approve you for specific time slots to make booking faster. This works two ways:
+## 6. Data Retention
+We retain your personal information for as long as necessary to provide our services and comply with legal obligations. Specifically:
+- **Account Information:** Retained while your account is active and for 7 years after closure
+- **Booking History:** Retained for 7 years for business and tax purposes
+- **Pet Information:** Retained while you use our services and for 3 years after last service
+- **Communication Data:** Retained for 2 years for quality assurance
 
-- **Individual dates**: Pre-approved for specific days
-- **Recurring patterns**: Pre-approved for regular schedules (e.g., every Monday/Wednesday)
+## 7. Your Privacy Rights
+Depending on your location, you may have the following rights:
+- **Access:** Request access to your personal information
+- **Correction:** Request correction of inaccurate information
+- **Deletion:** Request deletion of your personal information
+- **Portability:** Request a copy of your data in a portable format
+- **Restriction:** Request limitation of processing activities
+- **Objection:** Object to certain processing activities
+- **Withdrawal of Consent:** Withdraw consent for processing based on consent
 
-Pre-approved bookings are confirmed instantly, while regular requests need staff approval.
+## 8. Children's Privacy
+Our services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will delete it promptly.
 
-### Multi-Pet Pricing
-- Automatic discounts when booking multiple pets
-- Savings are clearly shown in your booking cart
-- Final pricing displayed before confirmation
+## 9. International Data Transfers
+Your information may be transferred to and processed in countries other than your country of residence. We ensure appropriate safeguards are in place to protect your information during such transfers.
 
-## 💬 Messaging
+## 10. Third-Party Links
+Our platform may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies.
 
-### Team Chat
-- **Chat with Bonnie's** connects you to the entire staff team
-- Perfect for general questions or service requests
-- All staff members can see and respond to team chats
+## 11. Push Notifications
+With your consent, we may send push notifications to your mobile device for booking confirmations, reminders, and service updates. You can disable these notifications in your device settings.
 
-### Direct Staff Chat
-- **Chat to Staff Member** lets you message individual staff
-- Choose from available staff members
-- Ideal for specific questions or building relationships
+## 12. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on our platform and updating the "Effective Date." Your continued use of our services after such changes constitutes acceptance of the updated policy.
 
-### Message Features
-- Real-time messaging with instant notifications
-- Message history saved for reference
-- Unread message badges keep you updated
-- Photos and updates about your pets
+## 13. Contact Information
+If you have any questions about this Privacy Policy or our privacy practices, please contact us:
+- **Email:** admin@bonnies.dog
+- **Phone:** +44 7577 449045
+- **Address:** Bonnies, Rectory Lane, Shenley, WD7
 
-## 🔔 Settings & Notifications
+## 14. Jurisdiction-Specific Rights
 
-### Notification Control
-Access **Settings** to manage your notification preferences:
+### 14.2 European Union Residents (GDPR)
+EU residents have rights under the General Data Protection Regulation, including the right to access, rectify, erase, restrict processing, data portability, and to object to processing of their personal data.
 
-- **Booking confirmations**: When bookings are approved/declined
-- **Schedule reminders**: Upcoming service notifications  
-- **Message notifications**: New chat messages (cannot be disabled)
-- **General updates**: Service changes and announcements
-
-Note: Message notifications are required and cannot be turned off to ensure important communication.
-
-### Account Settings
-- Update your profile information
-- Manage notification preferences
-- Sign out securely
-- View app version information
-
-## 💳 Payments
-
-Currently, all payments are handled via bank transfer. You'll receive payment details and instructions through the app messaging system or email after your booking is confirmed.
-
-## 📱 Navigation Tips
-
-### Bottom Tab Bar
-- **Home**: Dashboard with quick actions
-- **My Pets**: View and manage pet profiles  
-- **Book**: Access booking system
-- **Messages**: Chat with staff (shows unread count)
-- **Settings**: Account and notification preferences
-
-### Quick Actions
-- Dashboard provides fast access to most common tasks
-- Swipe to refresh lists for latest updates
-- Use back buttons to navigate between screens
-
-## 🆘 Getting Help
-
-### Common Issues
-
-**Pet Won't Book**
-- Ensure your pet is approved (no "Pending Confirmation" badge)
-- Check that the time slot is available
-- Contact staff if pre-approval is expected
-
-**Booking Not Confirmed**  
-- Non pre-approved bookings require staff review
-- You'll receive a notification once processed
-- Use team chat for urgent requests
-
-**Missing Notifications**
-- Check notification settings in the app
-- Ensure notifications are enabled in your phone settings
-- Message notifications cannot be disabled in-app
-
-### Contact Support
-- Use **Chat with Bonnie's** for immediate help
-- Send photos or screenshots to help explain issues
-- Staff typically respond during business hours
-
-## 📈 Making the Most of Your Experience
-
-### Building Relationships
-- Use direct staff chat to get to know your pet's carers
-- Share photos and updates about your pets
-- Provide feedback to help improve service
-
-### Regular Bookings
-- Ask staff about pre-approval for recurring services
-- This makes booking faster and guarantees your preferred slots
-- Perfect for weekly or monthly regular walks
-
-### Stay Updated
-- Keep the app updated for new features
-- Check messages regularly for service updates
-- Update pet information as needed (weight, medical needs, etc.)
-
----
-
-*Need more help? Use the "Chat with Bonnie's" feature in the app to speak directly with our team!*
+*This Privacy Policy was last updated on 3rd August 2025. Please review this policy periodically for any changes.*
